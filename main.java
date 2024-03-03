@@ -1,7 +1,7 @@
 import java.util.*;
 
-public class Main() {
-    public static void main(Strings[] args) {
+public class Main {
+    public static void main(String[] args) {
         //create Scanner object
         Scanner keyboard = new Scanner(System.in);
         
@@ -205,5 +205,4 @@ public class Main() {
             System.out.println((i + 1) + ". " + question);
         }
     }
-
 }
