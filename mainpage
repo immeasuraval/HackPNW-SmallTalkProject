@@ -1,0 +1,18 @@
+<div className="First" style={{width: 293, height: 70, textAlign: 'center', color: '#264E70', fontSize: 50, fontFamily: 'Itim', fontWeight: '400', wordWrap: 'break-word'}}>FIRST,</div>
+<div className="WhereDidYouMeetOrWhereDoYouSeeThemTheMost" style={{width: 284, height: 48, textAlign: 'center', color: '#264E70', fontSize: 20, fontFamily: 'Itim', fontWeight: '400', wordWrap: 'break-word'}}>Where did you meet or where do you see them the most?</div>
+<div className="Frame4" style={{width: 278, height: 68, paddingTop: 22, paddingBottom: 22, background: '#FE9EB0', boxShadow: '4px 4px 4px rgba(0, 0, 0, 0.25)', borderRadius: 20, justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+  <div className="School" style={{textAlign: 'center', color: '#702641', fontSize: 20, fontFamily: 'Itim', fontWeight: '400', wordWrap: 'break-word'}}>School</div>
+</div>
+<div className="Frame5" style={{width: 277, height: 68, paddingTop: 22, paddingBottom: 22, background: '#F9B4AB', boxShadow: '4px 4px 4px rgba(0, 0, 0, 0.25)', borderRadius: 20, justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+  <div className="Work" style={{textAlign: 'center', color: '#70264A', fontSize: 20, fontFamily: 'Itim', fontWeight: '400', wordWrap: 'break-word'}}>Work</div>
+</div>
+<div className="Frame6" style={{width: 277, height: 68, paddingTop: 22, paddingBottom: 22, background: '#AFF596', boxShadow: '4px 4px 4px rgba(0, 0, 0, 0.25)', borderRadius: 20, justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+  <div className="SocialEvent" style={{textAlign: 'center', color: '#264E70', fontSize: 20, fontFamily: 'Itim', fontWeight: '400', wordWrap: 'break-word'}}>Social Event</div>
+</div>
+<div className="Frame7" style={{width: 277, height: 68, paddingTop: 22, paddingBottom: 22, background: '#83BCF0', boxShadow: '4px 4px 4px rgba(0, 0, 0, 0.25)', borderRadius: 20, justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+  <div className="SportsMusic" style={{textAlign: 'center', color: '#264E70', fontSize: 20, fontFamily: 'Itim', fontWeight: '400', wordWrap: 'break-word'}}>Sports/Music</div>
+</div>
+<div className="Frame8" style={{width: 277, height: 68, paddingTop: 22, paddingBottom: 22, background: '#A36BE9', boxShadow: '4px 4px 4px rgba(0, 0, 0, 0.25)', borderRadius: 20, justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+  <div className="Other" style={{textAlign: 'center', color: '#542670', fontSize: 20, fontFamily: 'Itim', fontWeight: '400', wordWrap: 'break-word'}}>Other</div>
+</div>
+<img className="Image1" style={{width: 681.45, height: 948.60, transform: 'rotate(160deg)', transformOrigin: '0 0'}} src="https://via.placeholder.com/681x949" />
