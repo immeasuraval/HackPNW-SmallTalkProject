@@ -1,0 +1,161 @@
+<div className="Homepage" style={{width: 414, height: 736, position: 'relative', background: '#BBD4CE'}}>
+  <div className="Rectangle3" style={{width: 51, height: 33, left: 33, top: 29, position: 'absolute', background: '#679186', boxShadow: '4px 4px 4px rgba(0, 0, 0, 0.25)', borderRadius: 5}} />
+  <div className="Chatterbox" style={{width: 215, height: 47, left: 103, top: 337, position: 'absolute', color: '#476B62', fontSize: 32, fontFamily: 'Chonburi', fontWeight: '400', wordWrap: 'break-word'}}>ChatterBox</div>
+  <div className="Faqs" style={{width: 39, height: 14, left: 39, top: 39, position: 'absolute', textAlign: 'center', color: 'white', fontSize: 12, fontFamily: 'Itim', fontWeight: '400', wordWrap: 'break-word'}}>FAQs</div>
+  <div className="Frame1" style={{height: 61, paddingLeft: 44, paddingRight: 44, paddingTop: 32, paddingBottom: 32, left: 75, top: 485, position: 'absolute', background: '#679186', boxShadow: '4px 4px 4px rgba(0, 0, 0, 0.25)', borderRadius: 20, overflow: 'hidden', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+    <div className="INeedQuestions" style={{textAlign: 'center', color: '#9CDFC2', fontSize: 24, fontFamily: 'Itim', fontWeight: '400', wordWrap: 'break-word'}}>I need questions!</div>
+  </div>
+  <img className="Img13721" style={{width: 170, height: 173, left: 122, top: 134, position: 'absolute'}} src="https://via.placeholder.com/170x173" />
+  <div className="SmallTalkBigPossibilities" style={{width: 254, height: 24, left: 84, top: 384, position: 'absolute', textAlign: 'center', color: '#476B62', fontSize: 20, fontFamily: 'Itim', fontWeight: '400', wordWrap: 'break-word'}}>small talk, big possibilities</div>
+</div>
+<div className="Faqs" style={{width: 414, height: 1568, position: 'relative', background: '#BBD4CE'}}>
+  <div className="Faqs" style={{width: 293, height: 64, left: 66, top: 32, position: 'absolute', textAlign: 'center', color: '#264E70', fontSize: 50, fontFamily: 'Itim', fontWeight: '400', wordWrap: 'break-word'}}>FAQs</div>
+  <div className="FaqPanel" style={{width: 397, height: 592, paddingTop: 40, paddingBottom: 48, paddingLeft: 40, paddingRight: 40, left: 8, top: 145, position: 'absolute', background: '#BBD4CE', borderRadius: 24, flexDirection: 'column', justifyContent: 'flex-start', alignItems: 'center', gap: 52, display: 'inline-flex'}}>
+    <div className="FaqItem" style={{height: 34, flexDirection: 'column', justifyContent: 'flex-start', alignItems: 'flex-start', gap: 48, display: 'flex'}}>
+      <div className="Content" style={{alignSelf: 'stretch', height: 34, flexDirection: 'column', justifyContent: 'flex-start', alignItems: 'flex-start', gap: 24, display: 'flex'}}>
+        <div className="Trigger" style={{alignSelf: 'stretch', justifyContent: 'center', alignItems: 'center', gap: 40, display: 'inline-flex'}}>
+          <div className="Question" style={{flex: '1 1 0', color: '#264E70', fontSize: 28, fontFamily: 'Itim', fontWeight: '400', wordWrap: 'break-word'}}>Who created this?</div>
+          <div className="Plus" style={{width: 26, height: 26, position: 'relative'}}>
+            <div className="HLine" style={{width: 25.73, height: 2, left: 0, top: 12, position: 'absolute', background: '#264E70', borderRadius: 48}}></div>
+            <div className="VLine" style={{width: 2, height: 26, left: 12, top: 0, position: 'absolute', background: '#264E70', borderRadius: 48}}></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div className="FaqItem" style={{alignSelf: 'stretch', height: 68, flexDirection: 'column', justifyContent: 'flex-start', alignItems: 'flex-start', gap: 48, display: 'flex'}}>
+      <div className="Content" style={{alignSelf: 'stretch', height: 68, flexDirection: 'column', justifyContent: 'flex-start', alignItems: 'flex-start', gap: 24, display: 'flex'}}>
+        <div className="Trigger" style={{alignSelf: 'stretch', justifyContent: 'center', alignItems: 'center', gap: 40, display: 'inline-flex'}}>
+          <div className="Question" style={{flex: '1 1 0', color: '#264E70', fontSize: 28, fontFamily: 'Itim', fontWeight: '400', wordWrap: 'break-word'}}>Why did we create ChatterBox?</div>
+          <div className="Plus" style={{width: 26, height: 26, position: 'relative'}}>
+            <div className="HLine" style={{width: 25.73, height: 2, left: 0, top: 12, position: 'absolute', background: '#264E70', borderRadius: 48}}></div>
+            <div className="VLine" style={{width: 2, height: 26, left: 12, top: 0, position: 'absolute', background: '#264E70', borderRadius: 48}}></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div className="FaqItem" style={{alignSelf: 'stretch', height: 68, flexDirection: 'column', justifyContent: 'flex-start', alignItems: 'flex-start', gap: 48, display: 'flex'}}>
+      <div className="Content" style={{alignSelf: 'stretch', height: 68, flexDirection: 'column', justifyContent: 'flex-start', alignItems: 'flex-start', gap: 24, display: 'flex'}}>
+        <div className="Trigger" style={{alignSelf: 'stretch', justifyContent: 'center', alignItems: 'center', gap: 40, display: 'inline-flex'}}>
+          <div className="Question" style={{flex: '1 1 0', color: '#264E70', fontSize: 28, fontFamily: 'Itim', fontWeight: '400', wordWrap: 'break-word'}}>How long did it take us to complete?</div>
+          <div className="Plus" style={{width: 26, height: 26, position: 'relative'}}>
+            <div className="HLine" style={{width: 25.73, height: 2, left: 0, top: 12, position: 'absolute', background: '#264E70', borderRadius: 48}}></div>
+            <div className="VLine" style={{width: 2, height: 26, left: 12, top: 0, position: 'absolute', background: '#264E70', borderRadius: 48}}></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div className="FaqItem" style={{alignSelf: 'stretch', height: 68, flexDirection: 'column', justifyContent: 'flex-start', alignItems: 'flex-start', gap: 48, display: 'flex'}}>
+      <div className="Content" style={{alignSelf: 'stretch', height: 68, flexDirection: 'column', justifyContent: 'flex-start', alignItems: 'flex-start', gap: 24, display: 'flex'}}>
+        <div className="Trigger" style={{alignSelf: 'stretch', justifyContent: 'center', alignItems: 'center', gap: 40, display: 'inline-flex'}}>
+          <div className="Question" style={{flex: '1 1 0', color: '#264E70', fontSize: 28, fontFamily: 'Itim', fontWeight: '400', wordWrap: 'break-word'}}>What did we learn from this?</div>
+          <div className="Plus" style={{width: 26, height: 26, position: 'relative'}}>
+            <div className="HLine" style={{width: 25.73, height: 2, left: 0, top: 12, position: 'absolute', background: '#264E70', borderRadius: 48}}></div>
+            <div className="VLine" style={{width: 2, height: 26, left: 12, top: 0, position: 'absolute', background: '#264E70', borderRadius: 48}}></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div className="FaqItem" style={{alignSelf: 'stretch', height: 102, flexDirection: 'column', justifyContent: 'flex-start', alignItems: 'flex-start', gap: 48, display: 'flex'}}>
+      <div className="Content" style={{alignSelf: 'stretch', height: 102, flexDirection: 'column', justifyContent: 'flex-start', alignItems: 'flex-start', gap: 24, display: 'flex'}}>
+        <div className="Trigger" style={{alignSelf: 'stretch', justifyContent: 'center', alignItems: 'center', gap: 40, display: 'inline-flex'}}>
+          <div className="Question" style={{flex: '1 1 0', color: '#264E70', fontSize: 28, fontFamily: 'Itim', fontWeight: '400', wordWrap: 'break-word'}}>What do we want to accomplish after this</div>
+          <div className="Plus" style={{width: 26, height: 26, position: 'relative'}}>
+            <div className="HLine" style={{width: 25.73, height: 2, left: 0, top: 12, position: 'absolute', background: '#264E70', borderRadius: 48}}></div>
+            <div className="VLine" style={{width: 2, height: 26, left: 12, top: 0, position: 'absolute', background: '#264E70', borderRadius: 48}}></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <img className="Img13722" style={{width: 43, height: 60, left: 23, top: 20, position: 'absolute'}} src="https://via.placeholder.com/43x60" />
+</div>
+<div style={{width: 414, height: 736, position: 'relative', background: '#BBD4CE'}}>
+  <div className="TrapecioLado" style={{width: 34, height: 105.50, left: 135, top: 305, position: 'absolute', background: '#669086'}}></div>
+  <div className="Cuadrado" style={{width: 70, height: 69, left: 174.50, top: 341, position: 'absolute', background: '#669086'}}></div>
+  <div className="Trapecio" style={{width: 101.50, height: 33, left: 142, top: 301.50, position: 'absolute', background: '#679186'}}></div>
+  <div className="RectLado" style={{width: 31, height: 73, left: 251, top: 340, position: 'absolute', background: '#679186'}}></div>
+  <div className="RectAbajo" style={{width: 32, height: 70, left: 173, top: 449, position: 'absolute', transform: 'rotate(-90deg)', transformOrigin: '0 0', background: '#679186'}}></div>
+  <div className="TrigAbajo" style={{width: 27, height: 28.50, left: 141.50, top: 416.50, position: 'absolute', background: '#679186'}}></div>
+  <div className="TrigArriba" style={{width: 27, height: 25.68, left: 278, top: 334.18, position: 'absolute', transform: 'rotate(-180deg)', transformOrigin: '0 0', background: '#679186'}}></div>
+  <div className="PuntaArriba" style={{width: 31, height: 14.50, left: 251, top: 408, position: 'absolute', background: '#679186'}}></div>
+  <div className="PuntaAbajo" style={{width: 32, height: 18, left: 237, top: 449, position: 'absolute', transform: 'rotate(-90deg)', transformOrigin: '0 0', background: '#679186'}}></div>
+  <img className="Img13722" style={{width: 159, height: 164, left: 128, top: 286, position: 'absolute'}} src="https://via.placeholder.com/159x164" />
+</div>
+<div style={{width: 414, height: 736, position: 'relative', background: '#BBD4CE'}}>
+  <div className="TrapecioLado" style={{width: 34, height: 105.50, left: 135, top: 305, position: 'absolute', background: '#669086'}}></div>
+  <div className="Cuadrado" style={{width: 70, height: 69, left: 174.50, top: 341, position: 'absolute', background: '#BBD4CE'}}></div>
+  <div className="Trapecio" style={{width: 101.50, height: 33, left: 142, top: 301.50, position: 'absolute', background: '#679186'}}></div>
+  <div className="RectLado" style={{width: 31, height: 73, left: 251, top: 340, position: 'absolute', background: '#679186'}}></div>
+  <div className="RectAbajo" style={{width: 32, height: 70, left: 173, top: 449, position: 'absolute', transform: 'rotate(-90deg)', transformOrigin: '0 0', background: '#679186'}}></div>
+  <div className="TrigAbajo" style={{width: 27, height: 28.50, left: 141.50, top: 416.50, position: 'absolute', background: '#679186'}}></div>
+  <div className="TrigArriba" style={{width: 27, height: 25.68, left: 278, top: 334.18, position: 'absolute', transform: 'rotate(-180deg)', transformOrigin: '0 0', background: '#679186'}}></div>
+  <div className="PuntaArriba" style={{width: 31, height: 14.50, left: 251, top: 408, position: 'absolute', background: '#679186'}}></div>
+  <div className="PuntaAbajo" style={{width: 32, height: 18, left: 237, top: 449, position: 'absolute', transform: 'rotate(-90deg)', transformOrigin: '0 0', background: '#679186'}}></div>
+</div>
+<div style={{width: 414, height: 736, position: 'relative', background: '#BBD4CE'}}>
+  <div className="TrapecioLado" style={{width: 34, height: 105.50, left: 121, top: 304, position: 'absolute', background: '#BBD4CE'}}></div>
+  <div className="Cuadrado" style={{width: 70, height: 69, left: 174.50, top: 341, position: 'absolute', background: '#BBD4CE'}}></div>
+  <div className="Trapecio" style={{width: 101.50, height: 33, left: 142, top: 301.50, position: 'absolute', background: '#679186'}}></div>
+  <div className="TrigAbajo" style={{width: 27, height: 28.50, left: 141.50, top: 416.50, position: 'absolute', background: '#679186'}}></div>
+  <div className="TrigArriba" style={{width: 27, height: 25.68, left: 278, top: 334.18, position: 'absolute', transform: 'rotate(-180deg)', transformOrigin: '0 0', background: '#679186'}}></div>
+  <img className="Union" style={{width: 31, height: 82.50, left: 233, top: 341, position: 'absolute'}} src="https://via.placeholder.com/31x82" />
+  <img className="Union" style={{width: 82, height: 32, left: 173, top: 417, position: 'absolute'}} src="https://via.placeholder.com/82x32" />
+</div>
+<div style={{width: 414, height: 736, position: 'relative', background: '#BBD4CE'}}>
+  <div className="TrapecioLado" style={{width: 34, height: 105.50, left: 135, top: 305, position: 'absolute', background: '#BBD4CE'}}></div>
+  <div className="Cuadrado" style={{width: 70, height: 69, left: 174.50, top: 341, position: 'absolute', background: '#BBD4CE'}}></div>
+  <div className="PuntaAbajo" style={{width: 32, height: 18, left: 237, top: 449, position: 'absolute', transform: 'rotate(-90deg)', transformOrigin: '0 0', background: '#BBD4CE'}}></div>
+  <div className="Trapecio" style={{width: 73, height: 33, left: 170.50, top: 301.50, position: 'absolute', background: '#679186', borderRadius: 10}}></div>
+  <div className="RectAbajo" style={{width: 32, height: 70, left: 173, top: 449, position: 'absolute', transform: 'rotate(-90deg)', transformOrigin: '0 0', background: '#679186', borderRadius: 5}}></div>
+  <div className="TrigAbajo" style={{width: 27, height: 28.50, left: 173, top: 460, position: 'absolute', transform: 'rotate(-90deg)', transformOrigin: '0 0', background: '#679186'}}></div>
+  <div className="TrigArriba" style={{width: 27, height: 25.68, left: 216, top: 314, position: 'absolute', background: '#679186'}}></div>
+  <img className="Union" style={{width: 31, height: 82.50, left: 251, top: 340, position: 'absolute'}} src="https://via.placeholder.com/31x82" />
+</div>
+<div style={{width: 414, height: 736, position: 'relative', background: '#BBD4CE'}}>
+  <div className="TrapecioLado" style={{width: 34, height: 105.50, left: 135, top: 305, position: 'absolute', background: '#BBD4CE'}}></div>
+  <div className="Cuadrado" style={{width: 70, height: 69, left: 174.50, top: 341, position: 'absolute', background: '#BBD4CE'}}></div>
+  <div className="PuntaAbajo" style={{width: 32, height: 18, left: 237, top: 449, position: 'absolute', transform: 'rotate(-90deg)', transformOrigin: '0 0', background: '#BBD4CE'}}></div>
+  <div className="Trapecio" style={{width: 73, height: 33, left: 170.50, top: 301.50, position: 'absolute', background: '#BBD4CE', borderRadius: 10}}></div>
+  <div className="RectLado" style={{width: 31, height: 73, left: 251, top: 340, position: 'absolute', background: '#BBD4CE'}}></div>
+  <div className="RectAbajo" style={{width: 32, height: 70, left: 115, top: 449, position: 'absolute', transform: 'rotate(-90deg)', transformOrigin: '0 0', background: '#679186', borderRadius: 5}}></div>
+  <div className="TrigAbajo" style={{width: 27, height: 28.50, left: 115, top: 462, position: 'absolute', transform: 'rotate(-90deg)', transformOrigin: '0 0', background: '#679186'}}></div>
+  <div className="TrigArriba" style={{width: 27, height: 25.68, left: 216, top: 314, position: 'absolute', background: '#BBD4CE'}}></div>
+  <div className="PuntaArriba" style={{width: 31, height: 14.50, left: 251, top: 408, position: 'absolute', background: '#BBD4CE'}}></div>
+</div>
+<div style={{width: 414, height: 736, position: 'relative', background: '#BBD4CE'}}>
+  <div className="TrapecioLado" style={{width: 34, height: 105.50, left: 135, top: 305, position: 'absolute', background: '#BBD4CE'}}></div>
+  <div className="Cuadrado" style={{width: 70, height: 69, left: 174.50, top: 341, position: 'absolute', background: '#BBD4CE'}}></div>
+  <div className="PuntaAbajo" style={{width: 32, height: 18, left: 237, top: 449, position: 'absolute', transform: 'rotate(-90deg)', transformOrigin: '0 0', background: '#BBD4CE'}}></div>
+  <div className="Trapecio" style={{width: 73, height: 33, left: 170.50, top: 301.50, position: 'absolute', background: '#BBD4CE', borderRadius: 10}}></div>
+  <div className="RectLado" style={{width: 31, height: 73, left: 251, top: 340, position: 'absolute', background: '#BBD4CE'}}></div>
+  <div className="RectAbajo" style={{width: 32, height: 70, left: 173, top: 449, position: 'absolute', transform: 'rotate(-90deg)', transformOrigin: '0 0', background: '#679186', borderRadius: 5}}></div>
+  <div className="TrigAbajo" style={{width: 27, height: 28.50, left: 173, top: 460, position: 'absolute', transform: 'rotate(-90deg)', transformOrigin: '0 0', background: '#679186'}}></div>
+  <div className="TrigArriba" style={{width: 27, height: 25.68, left: 216, top: 314, position: 'absolute', background: '#BBD4CE'}}></div>
+  <div className="PuntaArriba" style={{width: 31, height: 14.50, left: 251, top: 408, position: 'absolute', background: '#BBD4CE'}}></div>
+</div>
+<div style={{width: 414, height: 736, position: 'relative', background: '#BBD4CE'}}>
+  <div className="TrapecioLado" style={{width: 34, height: 105.50, left: 135, top: 305, position: 'absolute', background: '#BBD4CE'}}></div>
+  <div className="Cuadrado" style={{width: 70, height: 69, left: 174.50, top: 341, position: 'absolute', background: '#BBD4CE'}}></div>
+  <div className="PuntaAbajo" style={{width: 32, height: 18, left: 237, top: 449, position: 'absolute', transform: 'rotate(-90deg)', transformOrigin: '0 0', background: '#BBD4CE'}}></div>
+  <div className="RectLado" style={{width: 31, height: 73, left: 251, top: 340, position: 'absolute', background: '#BBD4CE'}}></div>
+  <div className="RectAbajo" style={{width: 32, height: 70, left: 173, top: 449, position: 'absolute', transform: 'rotate(-90deg)', transformOrigin: '0 0', background: '#679186', borderRadius: 5}}></div>
+  <div className="TrigAbajo" style={{width: 27, height: 28.50, left: 173, top: 460, position: 'absolute', transform: 'rotate(-90deg)', transformOrigin: '0 0', background: '#679186'}}></div>
+  <div className="TrigArriba" style={{width: 27, height: 25.68, left: 306, top: 314, position: 'absolute', background: '#679186'}}></div>
+  <div className="PuntaArriba" style={{width: 31, height: 14.50, left: 251, top: 408, position: 'absolute', background: '#BBD4CE'}}></div>
+  <div className="Trapecio" style={{width: 73, height: 33, left: 260, top: 300, position: 'absolute', background: '#679186', borderRadius: 10}}></div>
+</div>
+<div style={{width: 414, height: 736, position: 'relative', background: '#BBD4CE'}}>
+  <div className="Rectangle10" style={{width: 184, height: 123, left: 199, top: 140, position: 'absolute', boxShadow: '0px 4px 4px rgba(0, 0, 0, 0.25)', borderRadius: 5}}></div>
+  <img className="Img13721" style={{width: 159, height: 164, left: 127, top: 286, position: 'absolute'}} src="https://via.placeholder.com/159x164" />
+  <div className="Chatterbox" style={{width: 215, height: 47, left: 71, top: 460, position: 'absolute', color: 'rgba(71.09, 107.23, 97.76, 0)', fontSize: 32, fontFamily: 'Chonburi', fontWeight: '400', wordWrap: 'break-word'}}>ChatterBox</div>
+</div>
+<div style={{width: 414, height: 736, position: 'relative', background: '#BBD4CE'}}>
+  <div className="Rectangle10" style={{width: 184, height: 123, left: 199, top: 140, position: 'absolute', boxShadow: '0px 4px 4px rgba(0, 0, 0, 0.25)', borderRadius: 5}}></div>
+  <img className="Img13721" style={{width: 159, height: 164, left: 127, top: 286, position: 'absolute'}} src="https://via.placeholder.com/159x164" />
+  <div className="Chatterbox" style={{width: 215, height: 47, left: 105, top: 462, position: 'absolute', color: '#476B62', fontSize: 32, fontFamily: 'Chonburi', fontWeight: '400', wordWrap: 'break-word'}}>ChatterBox</div>
+</div>
+<div style={{width: 414, height: 736, position: 'relative', background: '#BBD4CE'}}>
+  <div className="Rectangle10" style={{width: 184, height: 123, left: 199, top: 140, position: 'absolute', boxShadow: '0px 4px 4px rgba(0, 0, 0, 0.25)', borderRadius: 5}}></div>
+  <div className="Chatterbox" style={{width: 215, height: 47, left: 100, top: 338, position: 'absolute', color: '#476B62', fontSize: 32, fontFamily: 'Chonburi', fontWeight: '400', wordWrap: 'break-word'}}>ChatterBox</div>
+  <img className="Img13721" style={{width: 180, height: 173, left: 117, top: 127, position: 'absolute'}} src="https://via.placeholder.com/180x173" />
+</div>
